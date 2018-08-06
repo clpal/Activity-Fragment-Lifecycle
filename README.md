@@ -57,4 +57,4 @@ onCreate() 2
 onStart() 2
 onResume() 2
 onStop() 1
-onDestroy() 1   // This method call because we have used finish()
+<font color="red">onDestroy() 1</font>   // This method call because we have used finish()
