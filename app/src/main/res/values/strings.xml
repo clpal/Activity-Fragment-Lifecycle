@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lifecycles</string>
+
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+
+    <string name="move_to_next_activity">Move to Activity 2</string>
+
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+</resources>
